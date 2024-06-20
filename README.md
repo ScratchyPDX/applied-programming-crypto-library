@@ -25,8 +25,6 @@ For a demo of the cryptography code, see the documentation here:
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Tutorial: Create a .NET class library using Visual Studio Code](https://learn.microsoft.com/en-us/dotnet/core/tutorials/library-with-visual-studio-code?pivots=dotnet-8-0)
 
 # Future Work
